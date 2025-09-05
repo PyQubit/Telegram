@@ -1,6 +1,7 @@
 # PyQubit AI Telegram Bot 🤖
 
 **Developer:** Mohammad Mahdi Omidvar
+
 © 2025 Mohammad Mahdi Omidvar
 
 ---
